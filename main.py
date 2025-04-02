@@ -5,6 +5,7 @@ from io import BytesIO
 from datetime import datetime
 import numpy as np
 
+st.image("logo.png", width=80) 
 st.title("🌍 Projections Climatiques - Scénarios RCP")
 
 def apply_rcp_scenario(data, scenario):
