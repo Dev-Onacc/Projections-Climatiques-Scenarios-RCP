@@ -69,8 +69,9 @@ streamlit run app.py
 
 ## ✍️ Auteur
 
-Développé par **[POUM BIMBAR Paul Ghislain/ ONACC]**  
+Développé par **POUM BIMBAR Paul Ghislain/ ONACC**  
 🔬 Spécialiste en modélisation climatique et science des données
+poum.bimbar@onacc.cm
 
 ---
 
